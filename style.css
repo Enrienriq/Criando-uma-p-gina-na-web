@@ -1,0 +1,58 @@
+.navbar{
+    background-color: rgb(255, 166, 0);
+    border: 6px solid; color: darkgray;
+}
+.logo{
+    border-radius: 50%;
+    border:5px solid;
+    border-style: inset;
+}
+.quem-somos{
+    background-color: rgb(255, 255, 255);
+    border: 5px solid; color: darkgray;
+;
+}
+.margin{
+    padding-top: 30px;
+    padding-bottom: 300px;
+}
+.imagem{
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+    border: 7px solid; 
+}
+
+.title{
+    color: black;
+    border: 7px solid;
+}
+.imagems{
+    border-radius: 50%;
+    border: 7px solid;
+    height: 150px;
+    width: 150px;
+}
+.imag{
+    border-radius: 50%;
+    border: 7px solid;
+    height: 150px;
+    width: 150px;
+}
+.desc{
+    font-size: 20px;
+}
+.pdiv{
+    border: 7px solid;
+    
+}
+.sdiv{
+    margin-top: 20px;
+    border: 7px solid;
+    padding-bottom: 20px;
+}
+.tdiv{
+    margin-top: 20px;
+    border: 7px solid;
+    padding-bottom: 20px;
+}
